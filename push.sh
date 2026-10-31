@@ -7,6 +7,9 @@ git add -A -- . ':!backup'
 if git diff --cached --quiet; then
     echo "Nothing to commit."
 else
-    git commit -m "Update $(date '+%Y-%m-%d %H:%M:%S')"
+    git --no-pager diff --cached --name-status
+    default="Update $(date '+%Y-%m-%d %H:%M:%S')"
+    read -r -p "Commit message [$default]: " message
+    git commit -m "${message:-$default}"
 fi
 git push -u origin main
