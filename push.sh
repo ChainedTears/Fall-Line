@@ -3,7 +3,7 @@
 set -euo pipefail
 cd "$(dirname "$(readlink -f "$0")")"
 
-git add -A -- . ':!backup'
+git add -A .
 if git diff --cached --quiet; then
     echo "Nothing to commit."
 else
