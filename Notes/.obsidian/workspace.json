@@ -76,9 +76,121 @@
               "icon": "lucide-file",
               "title": "Objects and Classes"
             }
+          },
+          {
+            "id": "6dee5f352c09e7a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/00-README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-README"
+            }
+          },
+          {
+            "id": "e0efec5355277756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/01-about-arthur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-about-arthur"
+            }
+          },
+          {
+            "id": "bb0b4bdeb76db7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/02-how-to-talk-to-arthur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-how-to-talk-to-arthur"
+            }
+          },
+          {
+            "id": "8ac19ee636e42554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/03-people-and-sensitive-context.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-people-and-sensitive-context"
+            }
+          },
+          {
+            "id": "aefa6d1f1d432452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/04-active-cases-and-projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-active-cases-and-projects"
+            }
+          },
+          {
+            "id": "652afe8a34a79bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/05-scheduled-jobs-migration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-scheduled-jobs-migration"
+            }
+          },
+          {
+            "id": "681e00bcf36acbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/arthur/Desktop/duet-handoff/06-pi-infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-pi-infrastructure"
+            }
+          },
+          {
+            "id": "d34ac200ee10b887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Objects and Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects and Classes"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -245,16 +357,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "431b28d0333d6cfe",
+  "active": "d34ac200ee10b887",
   "lastOpenFiles": [
-    "Python/practice.py",
-    "Python/Expressing Derivatives in Python.md",
+    "2026-11-10.md",
     "Python/Objects and Classes.md",
+    "Untitled.canvas",
+    "Python/Expressing Derivatives in Python.md",
+    "Python/practice.py",
     "Python",
     "Math",
     "Math/Neural Networks.md",
     "Math/Gradients.md",
-    "Untitled.canvas",
     "2026-10-31.md"
   ]
 }
